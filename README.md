@@ -9,7 +9,9 @@ Página de login, formulário usando HTML, CSS e JavaScript.
 
 <br>
 <br>
-
+Acesso a página = https://raquel-moura.github.io/Login_LeagueOfLegends/.
+<br>
+<br>
 Video tutorial = https://youtu.be/tyVvNj-UvxM.
 
 ## 💡 Tecnologias utilizadas 
