@@ -15,7 +15,7 @@ Acesso a página = https://raquel-moura.github.io/Login_LeagueOfLegends/.
 Video tutorial = https://youtu.be/tyVvNj-UvxM.
 
 ## 💡 Tecnologias utilizadas 
-- HMTL;
+- HTML;
 - CSS;
 - JavaScript.
 <div style="display; inline_block"><br>
